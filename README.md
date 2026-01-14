@@ -1,8 +1,8 @@
+![Banner](github-header-banner.png)
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-![Banner](github-header-banner.png)
 # Hi 😅 I'm Muhammad Fatihah Yudhiansyah
 **Student | Learning Web Develops**
 
