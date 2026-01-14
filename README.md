@@ -15,8 +15,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![ReactJS](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Contact 
-- [Instagram](https://www.instagram.com/grngan_17/)
-- [Portfolio](https://fatihahportfolio.netlify.app) 
+
+[![ig](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/grngan_17/)  [![ig](https://skillicons.dev/icons?i=github)](https://github.com/muhammadfatihahyudhiansyah-dev)  ![ig](https://skillicons.dev/icons?i=discord)  [![ig](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-fatihah-yudhiansyah-a1b223385/)
+
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31be2ipgmkh3vkjogmzv5w4ydqtm)
